@@ -7,3 +7,6 @@
 ##### security;
 ##### PostgreSQL;
 ##### Docker;
+
+### Para auxilio na utilização, este link contem uma pequena documentação gerada pelo Postman:
+https://documenter.getpostman.com/view/26314612/2s93eU4F2y
